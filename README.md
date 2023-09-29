@@ -1,3 +1,6 @@
+# Hey 👋 This is Ashek Mahmud
+Willing to talk about data analysis.
+
 # 💫 About Me:
 I’m currently working on Data Analysis<br>I’m currently learning Data Science<br>Fun fact - I love comic
 
